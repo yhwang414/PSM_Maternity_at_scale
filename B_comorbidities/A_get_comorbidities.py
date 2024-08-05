@@ -6,8 +6,8 @@
 ## 1. load necessary packages 
 ## 2. load necessary functions 
 ## 3. load dataframe 
-## 4. get 200 most common diagnoses prepregnancy and post-pregnancy 
-## 5. get 10 top features for pre-pregnancy and prenatal (curated. same diagnosis with different names were grouped together) 
+## 4. get 25 most common diagnoses prepregnancy and post-pregnancy 
+## 5. Group diagnosis that have same names with different names 
 
 
 # ----------------------------------------------------------------------------
